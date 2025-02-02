@@ -9,6 +9,7 @@ Obs: Na simulação apresenta um led amarelo, mas na placa Bitdoglab o led utili
 - VS Code 
 - Pico sdk
 - Wokwi para o Vscode
+- Placa Bitdoglab 
 
 ## Instalação
 1. Clone o repositório:
